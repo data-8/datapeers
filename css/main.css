@@ -14,7 +14,7 @@
     /* =Preloader
     /* =Header
     /* =Full Width Slider
-    /* =Architecure Slider 
+    /* =Architecure Slider
     /* =Menu right
     /* =Home Content
     /* =Architecture Content
@@ -92,7 +92,7 @@ body {
 }
 :-moz-placeholder {
     /* Firefox 18- */
-    
+
     color: #787878;
     font-size: 14px;
     letter-spacing: 1pt;
@@ -462,8 +462,11 @@ ul.sublist {
     text-align: center;
     font-size: 1.5em;
     border: 1px solid #fff;
-    background-color: #eee;
+    background-color: #003262;
     padding: 5px;
+}
+.header-content button:hover {
+    color: #fff;
 }
 .logo {
     float: left;
@@ -871,7 +874,7 @@ span.border-text {
     font-weight: 400;
 }
 
-/* =Architecure Slider 
+/* =Architecure Slider
 -------------------------------------------------------------- */
 .arch-slider {
     position: relative;
@@ -1040,7 +1043,7 @@ span.border-text {
     transition-delay: 0.15s;
 }
 .search-wrap.open input:focus {
-    border:0; 
+    border:0;
 }
 .search-wrap.open ::-webkit-input-placeholder {
     font-size: 12px;
@@ -1137,7 +1140,7 @@ span.border-text {
     font-size: 34px;
     border: none;
     background: transparent;
-    color: transparent;
+    color: #7beec7;
     outline: 0;
 }
 .close-button::before,
@@ -1438,7 +1441,7 @@ ul.sub-menu li a {
 
 .menu-wrap-2 ul{
     padding:0;
-    margin-bottom:0; 
+    margin-bottom:0;
 }
 
 .menu-wrap-2 ul li{
@@ -1605,7 +1608,7 @@ ul.sub-menu li a {
 }
 .tabs-wrapper {
     background-color: #003262;
-    min-height: 304px;
+    min-height: 305px;
     width: 100%;
     padding: 40px;
     margin-bottom: 30px;
@@ -2517,7 +2520,7 @@ ul.social-buttons li {
 }
 
 /*Play Button*/
-.playBut { 
+.playBut {
     display: inline-block;
     -webkit-transition: all 0.5s ease;
     background-color: rgba(255, 255, 255, 0.79);

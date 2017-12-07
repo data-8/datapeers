@@ -1,0 +1,193 @@
+{
+  "name": "Community",
+  "color": "LightSteelBlue",
+  "children": [
+    {
+      "name": "Courses",
+      "color": "LightSteelBlue",
+      "children": [
+        {
+          "name": "Data 8",
+          "color": "LightSeaGreen",
+          "children": [
+            {
+              "name": "Lab Assistant",
+              "color": "LightSteelBlue",
+              "children": []
+            },
+            {
+              "name": "Tutor",
+              "color": "LightSteelBlue",
+              "children": []
+            },
+            {
+              "name": "Student Instructor",
+              "color": "LightSteelBlue",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Data 100",
+          "color": "LightSeaGreen",
+          "children": [
+            {
+              "name": "Lab Assistant",
+              "color": "LightSteelBlue",
+              "children": []
+            },
+            {
+              "name": "Student Instructor",
+              "color": "LightSteelBlue",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Prob 140",
+          "color": "LightSalmon",
+          "children": [
+            {
+              "name": "Student Instructor",
+              "color": "LightSteelBlue",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Stat 28",
+          "color": "LightSalmon",
+          "children": [
+
+          ]
+        },
+        {
+          "name": "Connector Courses",
+          "color": "LightSlateGrey",
+          "children": [
+            {
+              "name": "Connector Associate",
+              "color": "LightSteelBlue",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Research",
+      "color": "LightSteelBlue",
+      "children": [
+        {
+          "name": "Berkeley Institute of Data Science",
+          "color": "LightSteelBlue",
+          "children": []
+        },
+        {
+          "name": "Division of Data Science Student Teams",
+          "color": "LightSteelBlue",
+          "children": [
+            {
+              "name": "Connector Associates",
+              "color": "LightSteelBlue",
+              "children": []
+            },
+            {
+              "name": "Modules",
+              "color": "LightSteelBlue",
+              "children": [
+                {
+                  "name": "Module Leads",
+                  "color": "LightSteelBlue",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Outreach",
+              "color": "LightSteelBlue",
+              "children": []
+            },
+            {
+              "name": "Infrastructure",
+              "color": "LightSteelBlue",
+              "children": []
+            },
+            {
+              "name": "Mapping",
+              "color": "LightSteelBlue",
+              "children": []
+            },
+            {
+              "name": "Discovery Projects",
+              "color": "LightSteelBlue",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Clubs",
+      "color": "LightSteelBlue",
+      "children": [
+        {
+          "name": "Machine Learning at Berkeley",
+          "color": "DodgerBlue",
+          "children": []
+        },
+        {
+          "name": "Data Science Society at Berkeley",
+          "color": "LightSeaGreen",
+          "children": []
+        },
+        {
+          "name": "Sports Analytics Group at Berkeley",
+          "color": "LightSeaGreen",
+          "children": []
+        },
+        {
+          "name": "Undergraduate Statistics Association",
+          "color": "LightSalmon",
+          "children": []
+        },
+        {
+          "name": "Haas Data Science Club",
+          "color": "LightSeaGreen",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Decals",
+      "color": "LightSteelBlue",
+      "children": [
+        {
+          "name": "Practical Data Science for Internships",
+          "color": "LightSeaGreen",
+          "children": []
+        },
+        {
+          "name": "Kaggle Decal",
+          "color": "DodgerBlue",
+          "children": []
+        },
+        {
+          "name": "Data Science",
+          "color": "LightSeaGreen",
+          "children": []
+        },
+        {
+          "name": "Deep Learning",
+          "color": "DodgerBlue",
+          "children": []
+        },
+        {
+          "name": "Modeling: How to Understand the World",
+          "color": "LightSeaGreen",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
